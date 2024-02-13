@@ -1,3 +1,4 @@
+import { Button, Switch, FormControlLabel } from "@material-ui/core";
 
 function App() {
   return <div>Observer pattern</div>;
