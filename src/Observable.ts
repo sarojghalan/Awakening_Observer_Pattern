@@ -25,3 +25,5 @@ class Observable<T> {
     this.observers.forEach((observer) => observer(data));
   }
 }
+
+export default new Observable();
